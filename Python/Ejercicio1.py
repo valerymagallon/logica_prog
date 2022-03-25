@@ -1,8 +1,5 @@
-# OPERACIONES MATEMÁTICAS
-# Usando Operadores Matemáticos y Funiones Matemáticas
+#Ejercicio 1
 
-#IMPORTAR LIBRERÍA PARA FUNCIONAES MATEMÁTICAS
-import math 
 
 # ENTRADA DE DATOS
 
